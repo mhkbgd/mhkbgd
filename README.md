@@ -1,7 +1,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mhkbgd&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-🔭 I’m currently working on google kubernetes engine!
+- 🔭 I’m currently working on java springboot!
+- 🌱 I’m currently learning google kubernetes engine
+- 👯 I’m looking to collaborate on reactjs
+- 💬 Ask me about anything =D 
+- 📫 How to reach me: [@mhkbgd](https://facebook.com/mhkbgd);
 <!--
 **mhkbgd/mhkbgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
