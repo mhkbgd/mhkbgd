@@ -19,6 +19,7 @@ Hi, I am Mahmud Hasan, software engineer based in Helsinki, Finland. I am curren
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-46a2f1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-46a2f1?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
