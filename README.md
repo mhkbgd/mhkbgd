@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Github All Releases](https://img.shields.io/github/downloads/mhkbgd/fullstackopen/total.svg)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mhkbgd&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🔭 I’m currently working on google kubernetes engine!
 <!--
