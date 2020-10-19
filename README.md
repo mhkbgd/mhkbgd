@@ -16,5 +16,8 @@ Hi, I am Mahmud Hasan, software engieneer based in Helsinki, Finland. I am curre
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **This week I worked on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mhkbgd&hide_title=true&hide_border=true&langs_count=5)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mhkbgd&amp;show_icons=true" alt="GitHub Stats"></p>
