@@ -1,4 +1,4 @@
-
+<p><a href="https://www.twitter.com/mhkbgd"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mhhkbgd"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mhkbgd/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
 
 Hi, I am Mahmud Hasan, software engieneer based in Helsinki, Finland. I am currently doing my master's in computer scinece and looking forward to explore new things.
 
