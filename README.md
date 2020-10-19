@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github All Releases](https://img.shields.io/github/downloads/mhkbgd/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/mhkbgd/fullstackopen/total.svg)]()
 
 🔭 I’m currently working on google kubernetes engine!
 <!--
