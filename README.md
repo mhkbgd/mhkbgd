@@ -20,7 +20,6 @@ Hi, I am Mahmud Hasan, software engineer based in Helsinki, Finland. I am curren
   <img alt="html5" src="https://img.shields.io/badge/-mysql-46a2f1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=java&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-Spring boot-green?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-Selenium-46a2f1?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mhkbgd&amp;show_icons=true" alt="GitHub Stats"></p>
