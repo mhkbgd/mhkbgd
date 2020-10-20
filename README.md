@@ -21,6 +21,7 @@ Hi, I am Mahmud Hasan, software engineer based in Helsinki, Finland. I am curren
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-46a2f1?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-vscode-46a2f1?style=flat-square&logo=vscode&logoColor=white" />
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mhkbgd&amp;show_icons=true" alt="GitHub Stats"></p>
