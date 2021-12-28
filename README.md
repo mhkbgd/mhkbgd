@@ -2,9 +2,9 @@
 
 Hi, I am Mahmud Hasan, software engineer based in Helsinki, Finland. I am currently doing my master's in computer scinece. Coding for fun and looking forward to explore new technologies.
 
-- 🔭 I’m currently working on java springboot!
-- 🌱 I’m currently learning google kubernetes engine
-- 👯 I’m looking to collaborate on reactjs
+- 🔭 I’m currently working on Google Cloud and AWS!
+- 🌱 I’m currently learning public cloud
+- 👯 I’m looking to collaborate on public cloud and DevOps
 - 💬 Ask me about anything! 
 - 📫 How to reach me: [@mhkbgd](mailto:mhkbgd@gmail.com?Subject=Github%20Contact!);
 
