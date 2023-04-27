@@ -23,4 +23,3 @@ Hi, I am Mahmud Hasan, from Helsinki, Finland. I am currently working as a Cloud
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-46a2f1?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mhkbgd&amp;show_icons=true" alt="GitHub Stats"></p>
