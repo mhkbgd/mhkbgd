@@ -1,9 +1,9 @@
 <p><a href="https://www.twitter.com/mhkbgd"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mhkbgd/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mahmud.hsn/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.facebook.com/mhkbgd/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/4804745/mahmud-hasan-khan"><img src="https://img.shields.io/badge/stack overflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a></p>
 
-Hi, I am Mahmud Hasan, from Helsinki, Finland. I am currently working as a Cloud Engineer at Capgemini Finland.
+Hi, I am Mahmud Hasan, from Helsinki, Finland. I am currently working as a Cloud Engineer at KPMG Finland.
 
-- 🔭 I’m currently working on Google Cloud and AWS!
-- 🌱 I’m currently learning public cloud
+- 🔭 I’m currently working on Azure, Google Cloud and AWS!
+- 🌱 I’m currently learning powershell
 - 👯 I’m looking to collaborate on public cloud and DevOps
 - 💬 Ask me about anything! 
 - 📫 How to reach me: [@mhkbgd](mailto:mhkbgd@gmail.com?Subject=Github%20Contact!);
